@@ -1,2 +1,2 @@
 # sec-t
-Sec-t 2025
+Here you will find the Meshtastic slides from Sec-t 2025!
